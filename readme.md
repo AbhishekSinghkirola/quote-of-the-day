@@ -15,7 +15,8 @@ A simple web application that fetches and displays a random quote from an API. U
 
 ## Screenshots
 
-![Quote of the Day Screenshot](c:\Users\abhi_\OneDrive\Desktop\ss.png)
+![Quote of the Day Screenshot](https://github.com/user-attachments/assets/4f2a5a31-15f1-4d9d-b32e-44999aa60368)
+
 
 ## Deployment Link
 
