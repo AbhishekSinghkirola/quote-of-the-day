@@ -20,7 +20,7 @@ A simple web application that fetches and displays a random quote from an API. U
 
 ## Deployment Link
 
-[Live Demo](https://your-deployment-link.com)
+[Live Demo](https://abhishek-quote-of-the-day.netlify.app/)
 
 ## Installation & Usage
 
